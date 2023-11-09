@@ -6,4 +6,4 @@ From the humble 'Hello World' to contemplating 'World Domination' in just a few 
 
 ![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chris-Miracle&show_icons=true&count_private=true)
 
-![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chris-Miracl&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chris-Miracle&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
